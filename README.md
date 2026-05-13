@@ -11,7 +11,7 @@
 ##
 
 ###
-
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
