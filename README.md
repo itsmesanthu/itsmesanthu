@@ -8,23 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+Developer+🐍;Django+Web+Developer+🌐;Frontend+Creative+Designer+🎨;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesanthu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesanthu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=itsmesanthu&theme=tokyonight&hide_border=true" height="160" />
-</div>
-
-###
-
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+##
 
 ###
 
@@ -104,25 +88,6 @@
 
 ###
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmesanthu&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
-</div>
-
-###
-
-## ✨ Visitor Count
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmesanthu&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
