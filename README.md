@@ -146,9 +146,9 @@
 
 <div align="center">
 
-### 🔥 250+ Coding Problems Solved
+### 🔥 300+ Coding Problems Solved
 
-### 🟠 130+ LeetCode Problems
+### 🟠 150+ LeetCode Problems
 
 ### 🐍 Python Certification — HackerRank
 
