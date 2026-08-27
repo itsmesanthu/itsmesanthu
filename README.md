@@ -42,7 +42,7 @@
 
 🚀 I enjoy building web applications using **Python, Django, Django REST Framework, React, JavaScript, HTML, and CSS**.
 
-🧠 Solved **250+ coding problems** across coding platforms, including **130+ problems on LeetCode**.
+🧠 Solved **300+ coding problems** across coding platforms, including **180+ problems on LeetCode**.
 
 🏆 Earned **Python and SQL certifications on HackerRank**.
 
@@ -148,7 +148,7 @@
 
 ### 🔥 300+ Coding Problems Solved
 
-### 🟠 150+ LeetCode Problems
+### 🟠 180+ LeetCode Problems
 
 ### 🐍 Python Certification — HackerRank
 
